@@ -51,6 +51,10 @@
 		67F0021F2B5425E0003BF3E9 /* ShoppingApp */ = {
 			isa = PBXGroup;
 			children = (
+				67F002312B5438A8003BF3E9 /* Model */,
+				67F002302B5438A1003BF3E9 /* Core */,
+				67F0022F2B543883003BF3E9 /* Components */,
+				67F0022E2B54386E003BF3E9 /* App */,
 				67F002202B5425E0003BF3E9 /* ShoppingAppApp.swift */,
 				67F002222B5425E0003BF3E9 /* ContentView.swift */,
 				67F002242B5425E2003BF3E9 /* Assets.xcassets */,
@@ -65,6 +69,34 @@
 				67F002272B5425E2003BF3E9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		67F0022E2B54386E003BF3E9 /* App */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		67F0022F2B543883003BF3E9 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		67F002302B5438A1003BF3E9 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		67F002312B5438A8003BF3E9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
